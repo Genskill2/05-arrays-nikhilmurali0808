@@ -104,3 +104,4 @@ int factors(int n,int a[])
 		i++;
 	}
 	return count;
+}
